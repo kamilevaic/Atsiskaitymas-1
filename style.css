@@ -164,7 +164,6 @@ button {
   overflow: auto;
   white-space: nowrap;
   margin-bottom: 100px;
-  /* overflow-x: hidden; */
 }
 
 .shopping {
@@ -271,7 +270,6 @@ button {
 table,
 th,
 td {
-  /* border: 1px solid black; */
   width: 130px;
   padding-top: 10px;
   text-align: left;
